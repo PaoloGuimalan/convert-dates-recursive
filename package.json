@@ -1,5 +1,5 @@
 {
-  "name": "@neonsystems/convert-dates-recursive",
+  "name": "convert-dates-recursive",
   "version": "1.0.0",
   "description": "For lazy developers who just want to change their date formats inside their nested data at one execution without deconstructing objects or arrays manually.",
   "main": "index.js",
