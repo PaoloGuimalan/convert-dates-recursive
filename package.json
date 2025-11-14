@@ -1,0 +1,24 @@
+{
+  "name": "@neonsystems/convert-dates-recursive",
+  "version": "1.0.0",
+  "description": "For lazy developers who just want to change their date formats inside their nested data at one execution without deconstructing objects or arrays manually.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoloGuimalan/convert-dates-recursive.git"
+  },
+  "keywords": [
+    "date-conversion"
+  ],
+  "author": "PaoloGuimalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaoloGuimalan/convert-dates-recursive/issues"
+  },
+  "homepage": "https://github.com/PaoloGuimalan/convert-dates-recursive#readme"
+}
+
